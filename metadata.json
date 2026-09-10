@@ -1,0 +1,6 @@
+{
+  "name": "S-Waste – AI Smart Waste Processing",
+  "description": "AI Smart Waste Processing & Urban Pollution Prevention System for Coimbatore Smart Waste Intelligence Network.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
